@@ -21,6 +21,23 @@ HydroSentinel gives operational teams a real-time workflow:
 5. Generate AI summary + mock multi-channel alerts
 6. Track incidents, contributors, and response status
 
+## Target Users
+
+Municipal corporations and city authorities
+They use HydroSentinel to monitor flood risk, prioritize high-risk zones, and coordinate cleanup teams.
+
+Disaster management and emergency response units
+They use short-term flood probability and alerts to pre-position resources before severe waterlogging occurs.
+
+Field inspectors / sanitation teams
+They capture drain photos, update incident status, and provide on-ground verification for faster decision-making.
+
+Citizens and community volunteers
+They report blocked drains with contributor identity, helping authorities detect issues early and enabling reward-based participation.
+
+Drivers and transport operators
+They use the driver interface for weather-based route advisories and to report flood hazards on the road.
+
 ---
 
 ## Key Features
