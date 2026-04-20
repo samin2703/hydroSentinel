@@ -54,6 +54,30 @@ HydroSentinel gives operational teams a real-time workflow:
 
 ---
 
+## 📸 Screenshots & Features in Action
+
+### Blockage Analysis & Location Selection
+![Blockage Analysis and Location Pinning](blockage_analysis_n_location.png)
+*Users upload drain images for automatic blockage detection and click the map to pin exact incident location.*
+
+### Flood Risk Assessment Details
+![Flood Risk Details](flood_risk_details.png)
+*Comprehensive risk scoring breakdown showing blockage, rainfall, and location vulnerability factors with confidence levels.*
+
+### Hotspot Dashboard & City Heatmap
+![Hotspot Dashboard](hotspot.png)
+*Real-time interactive map showing all reported incidents color-coded by risk level with clustering and filtering capabilities.*
+
+### Operational Summary & Alert System
+![Operational Summary](operation_summary_n_alert.png)
+*Authority dashboard with KPIs, incident management, status tracking, and mock alert system for rapid response coordination.*
+
+### Driver Route Suggestions
+![Driver Route Suggestions](driver_route.png)
+*Weather-based navigation showing safe routes with rainfall forecasts and alternative low-rain destination recommendations.*
+
+---
+
 ## Tech Stack
 - Python 3.x
 - Streamlit
@@ -207,4 +231,22 @@ Ensure:
 ---
 
 ## License
-Add your preferred license here.
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+### MIT License Summary
+You are free to:
+- ✅ Use this software commercially
+- ✅ Modify and distribute
+- ✅ Use privately
+- ⚠️ Include a copy of the license and copyright notice
+
+### Copyright
+Copyright (c) 2026 HydroSentinel Contributors
+
+---
+
+## Attribution & Credits
+- **Open-Meteo**: Free weather data (no attribution required)
+- **Folium**: Map visualization (BSD 3-Clause License)
+- **Streamlit**: UI framework (Apache 2.0)
+- **Pillow & NumPy**: Image & numerical computing (MIT/BSD licenses)
